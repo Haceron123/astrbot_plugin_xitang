@@ -1,0 +1,11 @@
+name: astrbot_plugin_xitang
+description: 签到抽卡好感商店插件
+desc: 签到抽卡好感商店插件
+short_desc: 签到 / 抽卡 / 好感 / 商店，快来和莃棠玩耍喵～
+version: 1.1.7
+author: 莃棠
+display_name: 莃棠签到抽卡
+repo: ""
+support_platforms:
+  - aiocqhttp
+astrbot_version: ">=4.16,<5"

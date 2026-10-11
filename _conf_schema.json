@@ -1,0 +1,7 @@
+{
+  "master_qq": {
+    "description": "主人 QQ 号，只有该账号可以使用“打钱”指令",
+    "type": "string",
+    "default": ""
+  }
+}
